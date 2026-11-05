@@ -3,8 +3,13 @@
   "contenus": [
     {
       "id": "test-001",
-      "titre": "Film test",
-      "realisateur": "Barro",
+      "titre": "Big Buck Bunny",
+      "type": "film",
+      "genre": "Animation",
+      "annee": "2008",
+      "duree": "10 min",
+      "resume": "Un lapin géant au grand cœur décide de donner une leçon à trois rongeurs farceurs.",
+      "realisateur": "Fondation Blender",
       "affiche": "",
       "video": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
     }
