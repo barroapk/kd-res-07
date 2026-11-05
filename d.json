@@ -12,6 +12,31 @@
       "realisateur": "Fondation Blender",
       "affiche": "",
       "video": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4"
+    },
+    {
+      "id": "serie-test",
+      "titre": "Série test",
+      "type": "serie",
+      "genre": "Animation",
+      "annee": "2026",
+      "resume": "Une série d'essai pour vérifier les saisons et les épisodes.",
+      "realisateur": "Barro",
+      "affiche": "",
+      "saisons": [
+        {
+          "numero": 1,
+          "episodes": [
+            { "numero": 1, "titre": "Le début", "duree": "10 s", "video": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4" },
+            { "numero": 2, "titre": "La suite", "duree": "10 s", "video": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4" }
+          ]
+        },
+        {
+          "numero": 2,
+          "episodes": [
+            { "numero": 1, "titre": "Le retour", "duree": "10 s", "video": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4" }
+          ]
+        }
+      ]
     }
   ]
 }
